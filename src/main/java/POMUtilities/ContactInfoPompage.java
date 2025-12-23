@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 //changes done pull
+//changes done on push
 public class ContactInfoPompage {
 
 	// Declare
