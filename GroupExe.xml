@@ -6,6 +6,9 @@
 			<include name="smoke"></include>
 		</run>
 	</groups>
+	<listeners>
+		<listener class-name="GenericUtilities.ListernersUtility"></listener>
+	</listeners>
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="contactModule.ContactScenariosTest" />
